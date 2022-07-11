@@ -334,5 +334,6 @@ if (false) { // CLEAR "ONLY REFERENCED ONCE" WARNINGS
     DrawLights();
     UpdateLights();
     CleanupLightSystem(false);
-    delete new LightSource(0, 0);
+    var a = new LightSource(0, 0);
+    delete a;
 }
