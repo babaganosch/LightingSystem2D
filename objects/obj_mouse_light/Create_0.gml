@@ -1,0 +1,1 @@
+light = new LightSource(LIGHTS.s32, { alpha: 0.85, flicker: { amplitude: .75, speed: 0.04 } });

@@ -1,8 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"obj_small_lights","path":"objects/obj_small_lights/obj_small_lights.yy",},"order":2,},
+    {"id":{"name":"obj_game_controller","path":"objects/obj_game_controller/obj_game_controller.yy",},"order":0,},
+    {"id":{"name":"obj_mouse_light","path":"objects/obj_mouse_light/obj_mouse_light.yy",},"order":3,},
     {"id":{"name":"shd_gaussian_vertical","path":"shaders/shd_gaussian_vertical/shd_gaussian_vertical.yy",},"order":1,},
     {"id":{"name":"LightingSystem","path":"scripts/LightingSystem/LightingSystem.yy",},"order":0,},
+    {"id":{"name":"obj_big_light","path":"objects/obj_big_light/obj_big_light.yy",},"order":1,},
     {"id":{"name":"shd_gaussian_horizontal","path":"shaders/shd_gaussian_horizontal/shd_gaussian_horizontal.yy",},"order":0,},
+    {"id":{"name":"spr_demo_bg","path":"sprites/spr_demo_bg/spr_demo_bg.yy",},"order":0,},
     {"id":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},"order":0,},
   ],
   "Options": [

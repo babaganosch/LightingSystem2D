@@ -9,9 +9,8 @@ global.__light_system__ = new LightingSystem();
 //////////////////////////  LIGHT SPRITES  //////////////////////////
 
 LIGHTS = {
-    s16: ConstructLightSprite(16),
     s32: ConstructLightSprite(32),
-    s64: ConstructLightSprite(64)
+    s512: ConstructLightSprite(512)
 }
 
 

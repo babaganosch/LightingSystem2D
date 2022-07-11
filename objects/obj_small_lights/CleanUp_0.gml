@@ -1,0 +1,1 @@
+CleanupLightSystem(false);
