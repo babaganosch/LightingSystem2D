@@ -8,7 +8,7 @@
 This repository contains a demo project showcasing a simple implementation, but you only need the 'LightingSystem' script, and the Gaussian Blur shaders in a real implementation. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/babaganosch/open_storage/master/light_engine.png">
+  <img src="https://raw.githubusercontent.com/babaganosch/open_storage/master/minecart_0.gif">
 </p>
 
 ## Installation
